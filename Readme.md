@@ -285,5 +285,5 @@ If you use the archived benchmark dataset, please cite the associated Zenodo rec
 ```text
 R Naveen Nithya Kalyan,S Vigneshwari, Adaptive Framework Dataset for Quantum-Safe
 Real-Time Gross Settlement (RTGS), Zenodo, 2026.
-DOI: 10.5281/zenodo.20754899
+DOI: doi.org/10.5281/zenodo.20754899
 ```
