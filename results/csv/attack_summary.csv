@@ -1,0 +1,31 @@
+scenario,controller,mean_latency_ms,switches,unsafe_hybrid_fraction,fallback_delay_tx,key_starvation_events
+boundary_attack,Dwell-Time,0.6158348543442344,277.99,0.0082919999999999,302.57,0.0
+boundary_attack,Hysteresis,0.5962344706236581,173.87,0.005248,219.61,0.0
+boundary_attack,Single Threshold,0.6319055492072594,561.64,0.016936,529.73,0.0
+boundary_attack,Static Hybrid,0.6682923174429706,0.0,0.232714,,0.0
+boundary_attack,Static PQC,0.5725402805634767,0.0,0.0,0.0,0.0
+on_off_attack,Dwell-Time,0.6027090681132732,297.15,0.009074,0.72,0.0
+on_off_attack,Hysteresis,0.5912266938221464,176.85,0.005374,0.56,0.0
+on_off_attack,Single Threshold,0.6202093324581701,615.62,0.018998,0.91,0.0
+on_off_attack,Static Hybrid,0.6682923174429706,0.0,0.304016,,0.0
+on_off_attack,Static PQC,0.5725402805634767,0.0,0.0,0.0,0.0
+qkd_dos,Dwell-Time,0.6015525091153632,275.55,0.008208,0.0,0.0
+qkd_dos,Hysteresis,0.5909619394661549,172.41,0.005186,0.0,0.0
+qkd_dos,Single Threshold,0.6174874458384183,558.12,0.016782,0.0,0.0
+qkd_dos,Static Hybrid,0.6682923174429706,0.0,0.382714,,0.0
+qkd_dos,Static PQC,0.5725402805634767,0.0,0.0,0.0,0.0
+ramp_attack,Dwell-Time,0.60299971564921,293.41,0.00885,4.73,0.0
+ramp_attack,Hysteresis,0.5915520442400684,178.51,0.005384,3.38,0.0
+ramp_attack,Single Threshold,0.6201190814082338,599.14,0.018138,6.03,0.0
+ramp_attack,Static Hybrid,0.6682923174429706,0.0,0.307622,,0.0
+ramp_attack,Static PQC,0.5725402805634767,0.0,0.0,0.0,0.0
+step_attack,Dwell-Time,0.6016171219893603,276.75,0.0082919999999999,1.01,0.0
+step_attack,Hysteresis,0.5909994518621506,172.69,0.005228,0.8,0.0
+step_attack,Single Threshold,0.6176861758123933,563.4,0.017004,1.31,0.0
+step_attack,Static Hybrid,0.6682923174429706,0.0,0.324928,,0.0
+step_attack,Static PQC,0.5725402805634767,0.0,0.0,0.0,0.0
+telemetry_underreporting,Dwell-Time,0.6098700987329003,375.38,0.011772,1.27,0.0
+telemetry_underreporting,Hysteresis,0.605485623799108,319.14,0.009714,1.08,0.0
+telemetry_underreporting,Single Threshold,0.6337115194292618,914.85,0.031174,1.58,0.0
+telemetry_underreporting,Static Hybrid,0.6682923174429706,0.0,0.324928,,0.0
+telemetry_underreporting,Static PQC,0.5725402805634767,0.0,0.0,0.0,0.0

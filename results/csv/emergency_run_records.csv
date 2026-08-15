@@ -1,0 +1,201 @@
+scenario,controller,run_id,seed,fallback_delay_tx,safety_invariant_violations,unsafe_hybrid_fraction,switches,mean_latency_ms
+step_emergency,Immediate-Exit Hysteresis,0,92026,0,0,0.0,154,0.5913739040032852
+step_emergency,Original EMA-Exit Hysteresis,0,92026,2,16,0.0032,158,0.5939614690028975
+step_emergency,Immediate-Exit Hysteresis,1,93047,0,0,0.0,172,0.5919379031999596
+step_emergency,Original EMA-Exit Hysteresis,1,93047,2,18,0.0036,186,0.5940872075997504
+step_emergency,Immediate-Exit Hysteresis,2,94068,3,0,0.0,127,0.5886830554079097
+step_emergency,Original EMA-Exit Hysteresis,2,94068,14,13,0.0026,135,0.5911373056073899
+step_emergency,Immediate-Exit Hysteresis,3,95089,0,0,0.0,150,0.5874883106039306
+step_emergency,Original EMA-Exit Hysteresis,3,95089,0,27,0.0054,158,0.590733432203433
+step_emergency,Immediate-Exit Hysteresis,4,96110,0,0,0.0,146,0.5879468224114135
+step_emergency,Original EMA-Exit Hysteresis,4,96110,0,17,0.0034,148,0.5896381434115028
+step_emergency,Immediate-Exit Hysteresis,5,97131,1,0,0.0,201,0.5997235318055573
+step_emergency,Original EMA-Exit Hysteresis,5,97131,4,41,0.0082,195,0.602589006406015
+step_emergency,Immediate-Exit Hysteresis,6,98152,3,0,0.0,121,0.5875496930028021
+step_emergency,Original EMA-Exit Hysteresis,6,98152,3,16,0.0032,131,0.5889624958024797
+step_emergency,Immediate-Exit Hysteresis,7,99173,1,0,0.0,170,0.5908042940058295
+step_emergency,Original EMA-Exit Hysteresis,7,99173,1,37,0.0074,178,0.5936507548050031
+step_emergency,Immediate-Exit Hysteresis,8,100194,0,0,0.0,156,0.5867568967979423
+step_emergency,Original EMA-Exit Hysteresis,8,100194,0,19,0.0038,164,0.5893831903988029
+step_emergency,Immediate-Exit Hysteresis,9,101215,0,0,0.0,176,0.5914760106001268
+step_emergency,Original EMA-Exit Hysteresis,9,101215,0,23,0.0046,168,0.5933444268005588
+step_emergency,Immediate-Exit Hysteresis,10,102236,0,0,0.0,174,0.5925907298006677
+step_emergency,Original EMA-Exit Hysteresis,10,102236,0,27,0.0054,176,0.5956273682007123
+step_emergency,Immediate-Exit Hysteresis,11,103257,0,0,0.0,203,0.5917999707973649
+step_emergency,Original EMA-Exit Hysteresis,11,103257,0,29,0.0058,181,0.5949339357973258
+step_emergency,Immediate-Exit Hysteresis,12,104278,0,0,0.0,142,0.589223860806942
+step_emergency,Original EMA-Exit Hysteresis,12,104278,0,20,0.004,144,0.5903893628071273
+step_emergency,Immediate-Exit Hysteresis,13,105299,0,0,0.0,172,0.5970197744052712
+step_emergency,Original EMA-Exit Hysteresis,13,105299,0,23,0.0046,167,0.5989265302048807
+step_emergency,Immediate-Exit Hysteresis,14,106320,4,0,0.0,138,0.5843291538056292
+step_emergency,Original EMA-Exit Hysteresis,14,106320,4,14,0.0028,140,0.5858286054057317
+step_emergency,Immediate-Exit Hysteresis,15,107341,0,0,0.0,181,0.5898860860036621
+step_emergency,Original EMA-Exit Hysteresis,15,107341,0,28,0.0056,197,0.5939846602041143
+step_emergency,Immediate-Exit Hysteresis,16,108362,0,0,0.0,183,0.5849408160050189
+step_emergency,Original EMA-Exit Hysteresis,16,108362,0,31,0.0062,193,0.5881939318045625
+step_emergency,Immediate-Exit Hysteresis,17,109383,0,0,0.0,184,0.5863178378052908
+step_emergency,Original EMA-Exit Hysteresis,17,109383,0,32,0.0064,184,0.5882054318051815
+step_emergency,Immediate-Exit Hysteresis,18,110404,0,0,0.0,130,0.5815723462076676
+step_emergency,Original EMA-Exit Hysteresis,18,110404,0,24,0.0048,138,0.5828636568059664
+step_emergency,Immediate-Exit Hysteresis,19,111425,0,0,0.0,170,0.5834540746073799
+step_emergency,Original EMA-Exit Hysteresis,19,111425,0,25,0.005,168,0.5868435410063284
+step_emergency,Immediate-Exit Hysteresis,20,112446,5,0,0.0,161,0.5843568656036041
+step_emergency,Original EMA-Exit Hysteresis,20,112446,5,31,0.0062,163,0.587390633004361
+step_emergency,Immediate-Exit Hysteresis,21,113467,0,0,0.0,177,0.5901627212058884
+step_emergency,Original EMA-Exit Hysteresis,21,113467,0,31,0.0062,175,0.5935217902057047
+step_emergency,Immediate-Exit Hysteresis,22,114488,0,0,0.0,142,0.5876068656039933
+step_emergency,Original EMA-Exit Hysteresis,22,114488,0,11,0.0022,142,0.5888006698044592
+step_emergency,Immediate-Exit Hysteresis,23,115509,0,0,0.0,191,0.5909241970050061
+step_emergency,Original EMA-Exit Hysteresis,23,115509,1,23,0.0046,181,0.5931357318041591
+step_emergency,Immediate-Exit Hysteresis,24,116530,1,0,0.0,162,0.5945537872034947
+step_emergency,Original EMA-Exit Hysteresis,24,116530,1,19,0.0038,170,0.5958771598041495
+step_emergency,Immediate-Exit Hysteresis,25,117551,0,0,0.0,204,0.5901117570022507
+step_emergency,Original EMA-Exit Hysteresis,25,117551,0,29,0.0058,196,0.5938054800026293
+step_emergency,Immediate-Exit Hysteresis,26,118572,0,0,0.0,146,0.5872334342056093
+step_emergency,Original EMA-Exit Hysteresis,26,118572,0,34,0.0068,151,0.590749811805108
+step_emergency,Immediate-Exit Hysteresis,27,119593,1,0,0.0,158,0.5856746392042623
+step_emergency,Original EMA-Exit Hysteresis,27,119593,1,23,0.0046,166,0.5869411462045718
+step_emergency,Immediate-Exit Hysteresis,28,120614,0,0,0.0,204,0.5920909835996099
+step_emergency,Original EMA-Exit Hysteresis,28,120614,0,22,0.0044,208,0.5942479907993402
+step_emergency,Immediate-Exit Hysteresis,29,121635,0,0,0.0,193,0.5896879902070395
+step_emergency,Original EMA-Exit Hysteresis,29,121635,0,35,0.007,189,0.592162136607385
+step_emergency,Immediate-Exit Hysteresis,30,122656,0,0,0.0,129,0.5915636116082169
+step_emergency,Original EMA-Exit Hysteresis,30,122656,0,13,0.0026,143,0.5933592834082446
+step_emergency,Immediate-Exit Hysteresis,31,123677,0,0,0.0,152,0.593400216407099
+step_emergency,Original EMA-Exit Hysteresis,31,123677,0,19,0.0038,162,0.5951462588061986
+step_emergency,Immediate-Exit Hysteresis,32,124698,0,0,0.0,124,0.5821889814114911
+step_emergency,Original EMA-Exit Hysteresis,32,124698,0,16,0.0032,126,0.5836872632109589
+step_emergency,Immediate-Exit Hysteresis,33,125719,0,0,0.0,162,0.5939071146064634
+step_emergency,Original EMA-Exit Hysteresis,33,125719,0,20,0.004,176,0.5960530490051497
+step_emergency,Immediate-Exit Hysteresis,34,126740,0,0,0.0,164,0.5912817446045665
+step_emergency,Original EMA-Exit Hysteresis,34,126740,0,21,0.0042,176,0.5929468794041896
+step_emergency,Immediate-Exit Hysteresis,35,127761,0,0,0.0,171,0.5918989958044222
+step_emergency,Original EMA-Exit Hysteresis,35,127761,0,26,0.0052,161,0.5948428958047771
+step_emergency,Immediate-Exit Hysteresis,36,128782,0,0,0.0,174,0.5896289840016834
+step_emergency,Original EMA-Exit Hysteresis,36,128782,0,22,0.0044,172,0.5925422554014403
+step_emergency,Immediate-Exit Hysteresis,37,129803,0,0,0.0,148,0.58454515560652
+step_emergency,Original EMA-Exit Hysteresis,37,129803,0,34,0.0068,150,0.5879943514067236
+step_emergency,Immediate-Exit Hysteresis,38,130824,0,0,0.0,179,0.5895518244086816
+step_emergency,Original EMA-Exit Hysteresis,38,130824,0,25,0.005,177,0.5928173666086878
+step_emergency,Immediate-Exit Hysteresis,39,131845,0,0,0.0,136,0.5831957474041701
+step_emergency,Original EMA-Exit Hysteresis,39,131845,0,26,0.0052,136,0.5862941102050172
+step_emergency,Immediate-Exit Hysteresis,40,132866,0,0,0.0,184,0.5903356120057651
+step_emergency,Original EMA-Exit Hysteresis,40,132866,0,26,0.0052,184,0.5930062420058675
+step_emergency,Immediate-Exit Hysteresis,41,133887,0,0,0.0,140,0.5860952744031238
+step_emergency,Original EMA-Exit Hysteresis,41,133887,0,20,0.004,152,0.5877248552035781
+step_emergency,Immediate-Exit Hysteresis,42,134908,0,0,0.0,173,0.5882246590060276
+step_emergency,Original EMA-Exit Hysteresis,42,134908,0,27,0.0054,163,0.590004239006339
+step_emergency,Immediate-Exit Hysteresis,43,135929,0,0,0.0,141,0.5860370786073872
+step_emergency,Original EMA-Exit Hysteresis,43,135929,0,17,0.0034,147,0.5871032412071144
+step_emergency,Immediate-Exit Hysteresis,44,136950,0,0,0.0,182,0.5959597880083493
+step_emergency,Original EMA-Exit Hysteresis,44,136950,0,28,0.0056,180,0.5986554498074839
+step_emergency,Immediate-Exit Hysteresis,45,137971,0,0,0.0,146,0.5858574630025032
+step_emergency,Original EMA-Exit Hysteresis,45,137971,0,24,0.0048,146,0.589482691201465
+step_emergency,Immediate-Exit Hysteresis,46,138992,0,0,0.0,142,0.587053240406749
+step_emergency,Original EMA-Exit Hysteresis,46,138992,0,17,0.0034,156,0.58847748100643
+step_emergency,Immediate-Exit Hysteresis,47,140013,0,0,0.0,170,0.5841392635999909
+step_emergency,Original EMA-Exit Hysteresis,47,140013,0,29,0.0058,170,0.5863602038005411
+step_emergency,Immediate-Exit Hysteresis,48,141034,0,0,0.0,170,0.5910305108037391
+step_emergency,Original EMA-Exit Hysteresis,48,141034,0,14,0.0028,180,0.5933814962040742
+step_emergency,Immediate-Exit Hysteresis,49,142055,0,0,0.0,163,0.5847914960056186
+step_emergency,Original EMA-Exit Hysteresis,49,142055,0,21,0.0042,153,0.5869994140052768
+qkd_dos_emergency,Immediate-Exit Hysteresis,0,92026,0,0,0.0,154,0.5913413112032686
+qkd_dos_emergency,Original EMA-Exit Hysteresis,0,92026,0,15,0.003,158,0.5939824068027519
+qkd_dos_emergency,Immediate-Exit Hysteresis,1,93047,0,0,0.0,172,0.5919758751999324
+qkd_dos_emergency,Original EMA-Exit Hysteresis,1,93047,0,16,0.0032,186,0.5940695345996574
+qkd_dos_emergency,Immediate-Exit Hysteresis,2,94068,0,0,0.0,125,0.5886774170076933
+qkd_dos_emergency,Original EMA-Exit Hysteresis,2,94068,0,11,0.0022,135,0.5908456914073212
+qkd_dos_emergency,Immediate-Exit Hysteresis,3,95089,0,0,0.0,150,0.5873462000038672
+qkd_dos_emergency,Original EMA-Exit Hysteresis,3,95089,0,27,0.0054,158,0.5905913216033696
+qkd_dos_emergency,Immediate-Exit Hysteresis,4,96110,0,0,0.0,146,0.5879468224114135
+qkd_dos_emergency,Original EMA-Exit Hysteresis,4,96110,0,17,0.0034,148,0.5896381434115028
+qkd_dos_emergency,Immediate-Exit Hysteresis,5,97131,0,0,0.0,201,0.5997162478057362
+qkd_dos_emergency,Original EMA-Exit Hysteresis,5,97131,0,39,0.0078,195,0.6023732822060083
+qkd_dos_emergency,Immediate-Exit Hysteresis,6,98152,0,0,0.0,121,0.5875103788028355
+qkd_dos_emergency,Original EMA-Exit Hysteresis,6,98152,0,16,0.0032,131,0.5889231816025131
+qkd_dos_emergency,Immediate-Exit Hysteresis,7,99173,0,0,0.0,168,0.5908272224057327
+qkd_dos_emergency,Original EMA-Exit Hysteresis,7,99173,0,37,0.0074,176,0.5936736832049064
+qkd_dos_emergency,Immediate-Exit Hysteresis,8,100194,0,0,0.0,156,0.5867568967979423
+qkd_dos_emergency,Original EMA-Exit Hysteresis,8,100194,0,19,0.0038,164,0.5893831903988029
+qkd_dos_emergency,Immediate-Exit Hysteresis,9,101215,0,0,0.0,176,0.5914760106001268
+qkd_dos_emergency,Original EMA-Exit Hysteresis,9,101215,0,23,0.0046,168,0.5933444268005588
+qkd_dos_emergency,Immediate-Exit Hysteresis,10,102236,0,0,0.0,174,0.5929177300004994
+qkd_dos_emergency,Original EMA-Exit Hysteresis,10,102236,0,27,0.0054,176,0.5958417958006066
+qkd_dos_emergency,Immediate-Exit Hysteresis,11,103257,0,0,0.0,203,0.5917999707973649
+qkd_dos_emergency,Original EMA-Exit Hysteresis,11,103257,0,29,0.0058,181,0.5949339357973258
+qkd_dos_emergency,Immediate-Exit Hysteresis,12,104278,0,0,0.0,142,0.589223860806942
+qkd_dos_emergency,Original EMA-Exit Hysteresis,12,104278,0,20,0.004,144,0.5903893628071273
+qkd_dos_emergency,Immediate-Exit Hysteresis,13,105299,0,0,0.0,172,0.5970197744052712
+qkd_dos_emergency,Original EMA-Exit Hysteresis,13,105299,0,23,0.0046,167,0.5989265302048807
+qkd_dos_emergency,Immediate-Exit Hysteresis,14,106320,0,0,0.0,138,0.5842028328056585
+qkd_dos_emergency,Original EMA-Exit Hysteresis,14,106320,0,14,0.0028,140,0.585702284405761
+qkd_dos_emergency,Immediate-Exit Hysteresis,15,107341,0,0,0.0,181,0.5899042862037277
+qkd_dos_emergency,Original EMA-Exit Hysteresis,15,107341,0,28,0.0056,197,0.5940028604041799
+qkd_dos_emergency,Immediate-Exit Hysteresis,16,108362,0,0,0.0,183,0.5849408160050189
+qkd_dos_emergency,Original EMA-Exit Hysteresis,16,108362,0,31,0.0062,191,0.5880954542045401
+qkd_dos_emergency,Immediate-Exit Hysteresis,17,109383,0,0,0.0,184,0.5863178378052908
+qkd_dos_emergency,Original EMA-Exit Hysteresis,17,109383,0,32,0.0064,184,0.5882054318051815
+qkd_dos_emergency,Immediate-Exit Hysteresis,18,110404,0,0,0.0,128,0.5815159262077032
+qkd_dos_emergency,Original EMA-Exit Hysteresis,18,110404,0,24,0.0048,136,0.582807236806002
+qkd_dos_emergency,Immediate-Exit Hysteresis,19,111425,0,0,0.0,170,0.5834540746073799
+qkd_dos_emergency,Original EMA-Exit Hysteresis,19,111425,0,25,0.005,168,0.5868435410063284
+qkd_dos_emergency,Immediate-Exit Hysteresis,20,112446,0,0,0.0,161,0.5840915604035217
+qkd_dos_emergency,Original EMA-Exit Hysteresis,20,112446,0,31,0.0062,163,0.5871253278042786
+qkd_dos_emergency,Immediate-Exit Hysteresis,21,113467,0,0,0.0,177,0.5901555860059489
+qkd_dos_emergency,Original EMA-Exit Hysteresis,21,113467,0,31,0.0062,175,0.5934529518058298
+qkd_dos_emergency,Immediate-Exit Hysteresis,22,114488,0,0,0.0,140,0.5875321826038089
+qkd_dos_emergency,Original EMA-Exit Hysteresis,22,114488,0,11,0.0022,140,0.5887259868042747
+qkd_dos_emergency,Immediate-Exit Hysteresis,23,115509,0,0,0.0,191,0.5909241970050061
+qkd_dos_emergency,Original EMA-Exit Hysteresis,23,115509,0,23,0.0046,181,0.5931166932041378
+qkd_dos_emergency,Immediate-Exit Hysteresis,24,116530,0,0,0.0,162,0.5944487120035774
+qkd_dos_emergency,Original EMA-Exit Hysteresis,24,116530,0,19,0.0038,170,0.595772084604232
+qkd_dos_emergency,Immediate-Exit Hysteresis,25,117551,0,0,0.0,204,0.5901117570022507
+qkd_dos_emergency,Original EMA-Exit Hysteresis,25,117551,0,29,0.0058,196,0.5938054800026293
+qkd_dos_emergency,Immediate-Exit Hysteresis,26,118572,0,0,0.0,146,0.5872334342056093
+qkd_dos_emergency,Original EMA-Exit Hysteresis,26,118572,0,34,0.0068,151,0.590749811805108
+qkd_dos_emergency,Immediate-Exit Hysteresis,27,119593,0,0,0.0,158,0.5856266882042291
+qkd_dos_emergency,Original EMA-Exit Hysteresis,27,119593,0,23,0.0046,166,0.5868931952045386
+qkd_dos_emergency,Immediate-Exit Hysteresis,28,120614,0,0,0.0,204,0.5920909835996099
+qkd_dos_emergency,Original EMA-Exit Hysteresis,28,120614,0,22,0.0044,208,0.5942479907993402
+qkd_dos_emergency,Immediate-Exit Hysteresis,29,121635,0,0,0.0,191,0.5894993122072265
+qkd_dos_emergency,Original EMA-Exit Hysteresis,29,121635,0,34,0.0068,187,0.5921548568074286
+qkd_dos_emergency,Immediate-Exit Hysteresis,30,122656,0,0,0.0,129,0.5914893100081826
+qkd_dos_emergency,Original EMA-Exit Hysteresis,30,122656,0,13,0.0026,143,0.5932849818082104
+qkd_dos_emergency,Immediate-Exit Hysteresis,31,123677,0,0,0.0,152,0.593400216407099
+qkd_dos_emergency,Original EMA-Exit Hysteresis,31,123677,0,19,0.0038,162,0.5951462588061986
+qkd_dos_emergency,Immediate-Exit Hysteresis,32,124698,0,0,0.0,124,0.5821889814114911
+qkd_dos_emergency,Original EMA-Exit Hysteresis,32,124698,0,16,0.0032,126,0.5836872632109589
+qkd_dos_emergency,Immediate-Exit Hysteresis,33,125719,0,0,0.0,162,0.5939071146064634
+qkd_dos_emergency,Original EMA-Exit Hysteresis,33,125719,0,20,0.004,176,0.5960530490051497
+qkd_dos_emergency,Immediate-Exit Hysteresis,34,126740,0,0,0.0,164,0.5912817446045665
+qkd_dos_emergency,Original EMA-Exit Hysteresis,34,126740,0,21,0.0042,176,0.5929468794041896
+qkd_dos_emergency,Immediate-Exit Hysteresis,35,127761,0,0,0.0,171,0.5918989958044222
+qkd_dos_emergency,Original EMA-Exit Hysteresis,35,127761,0,26,0.0052,161,0.5948428958047771
+qkd_dos_emergency,Immediate-Exit Hysteresis,36,128782,0,0,0.0,174,0.5895491782017416
+qkd_dos_emergency,Original EMA-Exit Hysteresis,36,128782,0,22,0.0044,172,0.5924624496014985
+qkd_dos_emergency,Immediate-Exit Hysteresis,37,129803,0,0,0.0,148,0.58454515560652
+qkd_dos_emergency,Original EMA-Exit Hysteresis,37,129803,0,34,0.0068,150,0.5879943514067236
+qkd_dos_emergency,Immediate-Exit Hysteresis,38,130824,0,0,0.0,179,0.5895518244086816
+qkd_dos_emergency,Original EMA-Exit Hysteresis,38,130824,0,25,0.005,177,0.5928173666086878
+qkd_dos_emergency,Immediate-Exit Hysteresis,39,131845,0,0,0.0,136,0.5831957474041701
+qkd_dos_emergency,Original EMA-Exit Hysteresis,39,131845,0,26,0.0052,136,0.5862941102050172
+qkd_dos_emergency,Immediate-Exit Hysteresis,40,132866,0,0,0.0,184,0.5903356120057651
+qkd_dos_emergency,Original EMA-Exit Hysteresis,40,132866,0,26,0.0052,184,0.59296078260586
+qkd_dos_emergency,Immediate-Exit Hysteresis,41,133887,0,0,0.0,140,0.5860952744031238
+qkd_dos_emergency,Original EMA-Exit Hysteresis,41,133887,0,20,0.004,152,0.5877248552035781
+qkd_dos_emergency,Immediate-Exit Hysteresis,42,134908,0,0,0.0,173,0.588054598005965
+qkd_dos_emergency,Original EMA-Exit Hysteresis,42,134908,0,27,0.0054,163,0.5898341780062765
+qkd_dos_emergency,Immediate-Exit Hysteresis,43,135929,0,0,0.0,141,0.5860802998074177
+qkd_dos_emergency,Original EMA-Exit Hysteresis,43,135929,0,17,0.0034,145,0.5871648396071578
+qkd_dos_emergency,Immediate-Exit Hysteresis,44,136950,0,0,0.0,180,0.5954942778083023
+qkd_dos_emergency,Original EMA-Exit Hysteresis,44,136950,0,28,0.0056,178,0.5981899396074368
+qkd_dos_emergency,Immediate-Exit Hysteresis,45,137971,0,0,0.0,146,0.5858574630025032
+qkd_dos_emergency,Original EMA-Exit Hysteresis,45,137971,0,24,0.0048,146,0.589482691201465
+qkd_dos_emergency,Immediate-Exit Hysteresis,46,138992,0,0,0.0,142,0.587053240406749
+qkd_dos_emergency,Original EMA-Exit Hysteresis,46,138992,0,17,0.0034,156,0.58847748100643
+qkd_dos_emergency,Immediate-Exit Hysteresis,47,140013,0,0,0.0,170,0.584147486799975
+qkd_dos_emergency,Original EMA-Exit Hysteresis,47,140013,0,29,0.0058,170,0.5863684270005252
+qkd_dos_emergency,Immediate-Exit Hysteresis,48,141034,0,0,0.0,170,0.5910305108037391
+qkd_dos_emergency,Original EMA-Exit Hysteresis,48,141034,0,14,0.0028,180,0.5933814962040742
+qkd_dos_emergency,Immediate-Exit Hysteresis,49,142055,0,0,0.0,163,0.5847914960056186
+qkd_dos_emergency,Original EMA-Exit Hysteresis,49,142055,0,21,0.0042,153,0.5869994140052768

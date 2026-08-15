@@ -1,0 +1,5 @@
+scenario,controller,mean_fallback_delay_tx,median_fallback_delay_tx,p95_fallback_delay_tx,max_fallback_delay_tx,mean_safety_invariant_violations,unsafe_hybrid_fraction,switches,mean_latency_ms
+qkd_dos_emergency,Immediate-Exit Hysteresis,0.0,0.0,0.0,0,0.0,0.0,162.52,0.5889306886527338
+qkd_dos_emergency,Original EMA-Exit Hysteresis,0.0,0.0,0.0,0,23.5,0.004699999999999999,164.92,0.5912946276886123
+step_emergency,Immediate-Exit Hysteresis,0.38,0.0,3.0,5,0.0,0.0,162.76,0.5889593014927396
+step_emergency,Original EMA-Exit Hysteresis,0.76,0.0,4.0,14,23.66,0.004732,165.2,0.5913359206566238

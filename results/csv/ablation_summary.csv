@@ -1,0 +1,7 @@
+scenario,controller,mean_latency_ms,switches,hybrid_fraction,observed_violations,true_risk_violations,unsafe_hybrid_fraction
+ablation_baseline,Full Immediate-Exit + recovery dwell,0.5921180019063967,205.21,0.20362,0.0,0.0,0.0
+ablation_baseline,Original EMA exit + EMA re-entry,0.5948902267141657,208.15,0.23251000000000002,29.42,29.42,0.005884
+ablation_baseline,Raw-QBER + SKR + buffer gating,0.6052866587412263,415.75,0.339514,0.0,0.0,0.0
+ablation_baseline,Raw-QBER + SKR immediate exit,0.5921180019063967,205.21,0.20362,0.0,0.0,0.0
+ablation_baseline,Raw-QBER immediate exit only,0.5921180019063967,205.21,0.20362,0.0,0.0,0.0
+ablation_telemetry_underreporting,Full Immediate-Exit / falsified QBER telemetry,0.5887563312589854,167.69,0.157146,0.0,4.25,0.0008500000000000001

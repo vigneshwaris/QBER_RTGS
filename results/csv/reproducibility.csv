@@ -1,0 +1,2 @@
+comparison,KS_statistic,KS_pvalue,Wasserstein_distance,Jensen_Shannon_divergence
+independently seeded synthetic traces,0.0262,0.06462616861447061,0.005369865933496781,0.004706519504880973

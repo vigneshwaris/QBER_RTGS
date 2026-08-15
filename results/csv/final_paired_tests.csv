@@ -1,0 +1,151 @@
+scenario,metric,target,comparator,n_pairs,target_mean,comparator_mean,mean_difference,effect_size_dz,wilcoxon_stat,p_raw,p_holm
+boundary_attack,mean_latency_ms,Immediate-Exit Hysteresis,Dwell-Time,100,0.5957859111961951,0.6289144838077828,-0.03312857261158751,-2.188357876810257,0.0,3.896559845095909e-18,1.9482799225479547e-17
+boundary_attack,mean_latency_ms,Immediate-Exit Hysteresis,Original EMA-Exit Hysteresis,100,0.5957859111961951,0.5981314157920078,-0.002345504595812594,-0.6279723462114989,0.0,3.896559845095909e-18,1.9482799225479547e-17
+boundary_attack,mean_latency_ms,Immediate-Exit Hysteresis,Single Threshold,100,0.5957859111961951,0.6449357334907673,-0.049149822294572,-3.106332579210234,0.0,3.896559845095909e-18,1.9482799225479547e-17
+boundary_attack,mean_latency_ms,Immediate-Exit Hysteresis,Static Hybrid,100,0.5957859111961951,0.6683464378092251,-0.07256052661302964,-4.399195590484855,0.0,3.896559845095909e-18,1.9482799225479547e-17
+boundary_attack,mean_latency_ms,Immediate-Exit Hysteresis,Static PQC,100,0.5957859111961951,0.5738900483056131,0.021895862890582075,1.3945088039765483,0.0,3.896559845095909e-18,1.9482799225479547e-17
+boundary_attack,switches,Immediate-Exit Hysteresis,Dwell-Time,100,132.02,213.54,-81.52,-5.704300051728565,0.0,3.8160285270189416e-18,1.908014263509471e-17
+boundary_attack,switches,Immediate-Exit Hysteresis,Original EMA-Exit Hysteresis,100,132.02,134.71,-2.69,-0.4186458960982139,1356.5,5.5764237741323796e-05,5.5764237741323796e-05
+boundary_attack,switches,Immediate-Exit Hysteresis,Single Threshold,100,132.02,1268.26,-1136.24,-23.44860802885049,0.0,3.8899707322140255e-18,1.908014263509471e-17
+boundary_attack,switches,Immediate-Exit Hysteresis,Static Hybrid,100,132.02,0.0,132.02,6.784942621329676,0.0,3.870266708122053e-18,1.908014263509471e-17
+boundary_attack,switches,Immediate-Exit Hysteresis,Static PQC,100,132.02,0.0,132.02,6.784942621329676,0.0,3.870266708122053e-18,1.908014263509471e-17
+boundary_attack,unsafe_hybrid_fraction,Immediate-Exit Hysteresis,Dwell-Time,100,0.0,0.006246000000000001,-0.006246000000000001,-4.330102681328689,0.0,3.77571691645798e-18,1.8539092526673124e-17
+boundary_attack,unsafe_hybrid_fraction,Immediate-Exit Hysteresis,Original EMA-Exit Hysteresis,100,0.0,0.003942,-0.003942,-3.65268973153062,0.0,3.707818505334625e-18,1.8539092526673124e-17
+boundary_attack,unsafe_hybrid_fraction,Immediate-Exit Hysteresis,Single Threshold,100,0.0,0.0,0.0,,0.0,1.0,1.0
+boundary_attack,unsafe_hybrid_fraction,Immediate-Exit Hysteresis,Static Hybrid,100,0.0,0.17801799999999995,-0.17801799999999995,-15.68390102345194,0.0,3.888434793038708e-18,1.8539092526673124e-17
+boundary_attack,unsafe_hybrid_fraction,Immediate-Exit Hysteresis,Static PQC,100,0.0,0.0,0.0,,0.0,1.0,1.0
+boundary_attack,true_channel_risk_violations,Immediate-Exit Hysteresis,Dwell-Time,100,0.0,31.23,-31.23,-4.330102681328689,0.0,3.77571691645798e-18,1.8539092526673124e-17
+boundary_attack,true_channel_risk_violations,Immediate-Exit Hysteresis,Original EMA-Exit Hysteresis,100,0.0,19.71,-19.71,-3.6526897315306197,0.0,3.707818505334625e-18,1.8539092526673124e-17
+boundary_attack,true_channel_risk_violations,Immediate-Exit Hysteresis,Single Threshold,100,0.0,0.0,0.0,,0.0,1.0,1.0
+boundary_attack,true_channel_risk_violations,Immediate-Exit Hysteresis,Static Hybrid,100,0.0,890.09,-890.09,-15.683901023451945,0.0,3.888434793038708e-18,1.8539092526673124e-17
+boundary_attack,true_channel_risk_violations,Immediate-Exit Hysteresis,Static PQC,100,0.0,0.0,0.0,,0.0,1.0,1.0
+boundary_attack,fallback_delay_from_unsafe_tx,Immediate-Exit Hysteresis,Dwell-Time,100,0.0,0.65,-0.65,-0.18316448343710423,2093.0,0.09978139502342023,0.39912558009368093
+boundary_attack,fallback_delay_from_unsafe_tx,Immediate-Exit Hysteresis,Original EMA-Exit Hysteresis,100,0.0,0.58,-0.58,-0.16452408689381454,2185.5,0.19239077083482248,0.5771723125044674
+boundary_attack,fallback_delay_from_unsafe_tx,Immediate-Exit Hysteresis,Single Threshold,100,0.0,0.0,0.0,,0.0,1.0,1.0
+boundary_attack,fallback_delay_from_unsafe_tx,Immediate-Exit Hysteresis,Static Hybrid,0,,,,,,,
+boundary_attack,fallback_delay_from_unsafe_tx,Immediate-Exit Hysteresis,Static PQC,100,0.0,0.0,0.0,,0.0,1.0,1.0
+on_off_attack,mean_latency_ms,Immediate-Exit Hysteresis,Dwell-Time,100,0.5868449767869397,0.5989199986998337,-0.012075021912894033,-5.611005872388348,0.0,3.896559845095909e-18,1.9482799225479547e-17
+on_off_attack,mean_latency_ms,Immediate-Exit Hysteresis,Original EMA-Exit Hysteresis,100,0.5868449767869397,0.588807782096679,-0.0019628053097394483,-2.2149791830542918,0.0,3.896559845095909e-18,1.9482799225479547e-17
+on_off_attack,mean_latency_ms,Immediate-Exit Hysteresis,Single Threshold,100,0.5868449767869397,0.6318334690753218,-0.044988492288382066,-13.509553731426848,0.0,3.896559845095909e-18,1.9482799225479547e-17
+on_off_attack,mean_latency_ms,Immediate-Exit Hysteresis,Static Hybrid,100,0.5868449767869397,0.6680019332304262,-0.0811569564434867,-17.101836854631905,0.0,3.896559845095909e-18,1.9482799225479547e-17
+on_off_attack,mean_latency_ms,Immediate-Exit Hysteresis,Static PQC,100,0.5868449767869397,0.5740277031740715,0.012817273612868134,4.930874893522984,0.0,3.896559845095909e-18,1.9482799225479547e-17
+on_off_attack,switches,Immediate-Exit Hysteresis,Dwell-Time,100,141.4,265.59,-124.19,-6.994354966717823,0.0,3.8365535996843625e-18,1.9182767998421812e-17
+on_off_attack,switches,Immediate-Exit Hysteresis,Original EMA-Exit Hysteresis,100,141.4,144.78,-3.38,-0.5156535547016777,1152.0,2.182541478533624e-06,2.182541478533624e-06
+on_off_attack,switches,Immediate-Exit Hysteresis,Single Threshold,100,141.4,1351.27,-1209.87,-21.63874533418363,0.0,3.8899707322140255e-18,1.9182767998421812e-17
+on_off_attack,switches,Immediate-Exit Hysteresis,Static Hybrid,100,141.4,0.0,141.4,8.511591324914857,0.0,3.8398039515630974e-18,1.9182767998421812e-17
+on_off_attack,switches,Immediate-Exit Hysteresis,Static PQC,100,141.4,0.0,141.4,8.511591324914857,0.0,3.8398039515630974e-18,1.9182767998421812e-17
+on_off_attack,unsafe_hybrid_fraction,Immediate-Exit Hysteresis,Dwell-Time,100,0.0,0.008446,-0.008446,-5.663839104957642,0.0,3.813012594210966e-18,1.8682214451702463e-17
+on_off_attack,unsafe_hybrid_fraction,Immediate-Exit Hysteresis,Original EMA-Exit Hysteresis,100,0.0,0.004286000000000001,-0.004286000000000001,-3.7773056257815365,0.0,3.736442890340493e-18,1.8682214451702463e-17
+on_off_attack,unsafe_hybrid_fraction,Immediate-Exit Hysteresis,Single Threshold,100,0.0,0.0,0.0,,0.0,1.0,1.0
+on_off_attack,unsafe_hybrid_fraction,Immediate-Exit Hysteresis,Static Hybrid,100,0.0,0.33821000000000007,-0.33821000000000007,-24.729432776784076,0.0,3.8868994287609845e-18,1.8682214451702463e-17
+on_off_attack,unsafe_hybrid_fraction,Immediate-Exit Hysteresis,Static PQC,100,0.0,0.0,0.0,,0.0,1.0,1.0
+on_off_attack,true_channel_risk_violations,Immediate-Exit Hysteresis,Dwell-Time,100,0.0,42.23,-42.23,-5.663839104957641,0.0,3.813012594210966e-18,1.8682214451702463e-17
+on_off_attack,true_channel_risk_violations,Immediate-Exit Hysteresis,Original EMA-Exit Hysteresis,100,0.0,21.43,-21.43,-3.7773056257815347,0.0,3.736442890340493e-18,1.8682214451702463e-17
+on_off_attack,true_channel_risk_violations,Immediate-Exit Hysteresis,Single Threshold,100,0.0,0.0,0.0,,0.0,1.0,1.0
+on_off_attack,true_channel_risk_violations,Immediate-Exit Hysteresis,Static Hybrid,100,0.0,1691.05,-1691.05,-24.729432776784073,0.0,3.8868994287609845e-18,1.8682214451702463e-17
+on_off_attack,true_channel_risk_violations,Immediate-Exit Hysteresis,Static PQC,100,0.0,0.0,0.0,,0.0,1.0,1.0
+on_off_attack,fallback_delay_from_unsafe_tx,Immediate-Exit Hysteresis,Dwell-Time,100,0.0,1.15,-1.15,-0.20007451031223256,1958.0,0.032587994261820165,0.13035197704728066
+on_off_attack,fallback_delay_from_unsafe_tx,Immediate-Exit Hysteresis,Original EMA-Exit Hysteresis,100,0.0,1.14,-1.14,-0.19829563142707668,2002.5,0.04812526968705547,0.14437580906116643
+on_off_attack,fallback_delay_from_unsafe_tx,Immediate-Exit Hysteresis,Single Threshold,100,0.0,0.0,0.0,,0.0,1.0,1.0
+on_off_attack,fallback_delay_from_unsafe_tx,Immediate-Exit Hysteresis,Static Hybrid,0,,,,,,,
+on_off_attack,fallback_delay_from_unsafe_tx,Immediate-Exit Hysteresis,Static PQC,100,0.0,0.0,0.0,,0.0,1.0,1.0
+qkd_dos,mean_latency_ms,Immediate-Exit Hysteresis,Dwell-Time,100,0.5874959134945793,0.5986666863476594,-0.011170772853080055,-6.257390766907196,0.0,3.896559845095909e-18,1.9482799225479547e-17
+qkd_dos,mean_latency_ms,Immediate-Exit Hysteresis,Original EMA-Exit Hysteresis,100,0.5874959134945793,0.5895292518644083,-0.002033338369828921,-2.225242681328982,0.0,3.896559845095909e-18,1.9482799225479547e-17
+qkd_dos,mean_latency_ms,Immediate-Exit Hysteresis,Single Threshold,100,0.5874959134945793,0.6225263098342413,-0.03503039633966182,-10.200253936064229,0.0,3.896559845095909e-18,1.9482799225479547e-17
+qkd_dos,mean_latency_ms,Immediate-Exit Hysteresis,Static Hybrid,100,0.5874959134945793,0.6681303573111453,-0.08063444381656609,-15.370083132559724,0.0,3.896559845095909e-18,1.9482799225479547e-17
+qkd_dos,mean_latency_ms,Immediate-Exit Hysteresis,Static PQC,100,0.5874959134945793,0.5733241416635719,0.014171771831007391,5.287172411381439,0.0,3.896559845095909e-18,1.9482799225479547e-17
+qkd_dos,switches,Immediate-Exit Hysteresis,Dwell-Time,100,153.48,245.78,-92.3,-5.667352250066501,0.0,3.8402375289919186e-18,1.9201187644959593e-17
+qkd_dos,switches,Immediate-Exit Hysteresis,Original EMA-Exit Hysteresis,100,153.48,155.35,-1.87,-0.244833901633443,1866.0,0.023069988024630266,0.023069988024630266
+qkd_dos,switches,Immediate-Exit Hysteresis,Single Threshold,100,153.48,964.65,-811.17,-16.697308946546904,0.0,3.892165928709803e-18,1.9201187644959593e-17
+qkd_dos,switches,Immediate-Exit Hysteresis,Static Hybrid,100,153.48,0.0,153.48,8.201844065034928,0.0,3.864810181599828e-18,1.9201187644959593e-17
+qkd_dos,switches,Immediate-Exit Hysteresis,Static PQC,100,153.48,0.0,153.48,8.201844065034928,0.0,3.864810181599828e-18,1.9201187644959593e-17
+qkd_dos,unsafe_hybrid_fraction,Immediate-Exit Hysteresis,Dwell-Time,100,0.0,0.007297999999999999,-0.007297999999999999,-5.476618826728188,0.0,3.797966793002102e-18,1.870334992901344e-17
+qkd_dos,unsafe_hybrid_fraction,Immediate-Exit Hysteresis,Original EMA-Exit Hysteresis,100,0.0,0.004437999999999999,-0.004437999999999999,-3.9812990530448875,0.0,3.740669985802688e-18,1.870334992901344e-17
+qkd_dos,unsafe_hybrid_fraction,Immediate-Exit Hysteresis,Single Threshold,100,0.0,0.0,0.0,,0.0,1.0,1.0
+qkd_dos,unsafe_hybrid_fraction,Immediate-Exit Hysteresis,Static Hybrid,100,0.0,0.455836,-0.455836,-38.87323871070848,0.0,3.888434793038708e-18,1.870334992901344e-17
+qkd_dos,unsafe_hybrid_fraction,Immediate-Exit Hysteresis,Static PQC,100,0.0,0.0,0.0,,0.0,1.0,1.0
+qkd_dos,true_channel_risk_violations,Immediate-Exit Hysteresis,Dwell-Time,100,0.0,36.49,-36.49,-5.47661882672819,0.0,3.797966793002102e-18,1.870334992901344e-17
+qkd_dos,true_channel_risk_violations,Immediate-Exit Hysteresis,Original EMA-Exit Hysteresis,100,0.0,22.19,-22.19,-3.9812990530448893,0.0,3.740669985802688e-18,1.870334992901344e-17
+qkd_dos,true_channel_risk_violations,Immediate-Exit Hysteresis,Single Threshold,100,0.0,0.0,0.0,,0.0,1.0,1.0
+qkd_dos,true_channel_risk_violations,Immediate-Exit Hysteresis,Static Hybrid,100,0.0,2279.18,-2279.18,-38.873238710708485,0.0,3.888434793038708e-18,1.870334992901344e-17
+qkd_dos,true_channel_risk_violations,Immediate-Exit Hysteresis,Static PQC,100,0.0,0.0,0.0,,0.0,1.0,1.0
+qkd_dos,fallback_delay_from_unsafe_tx,Immediate-Exit Hysteresis,Dwell-Time,100,0.0,0.36,-0.36,-0.20783210195171917,2093.0,0.09977955014986728,0.3991182005994691
+qkd_dos,fallback_delay_from_unsafe_tx,Immediate-Exit Hysteresis,Original EMA-Exit Hysteresis,100,0.0,0.29,-0.29,-0.17476748453036117,2185.5,0.19238831224626418,0.5771649367387925
+qkd_dos,fallback_delay_from_unsafe_tx,Immediate-Exit Hysteresis,Single Threshold,100,0.0,0.0,0.0,,0.0,1.0,1.0
+qkd_dos,fallback_delay_from_unsafe_tx,Immediate-Exit Hysteresis,Static Hybrid,0,,,,,,,
+qkd_dos,fallback_delay_from_unsafe_tx,Immediate-Exit Hysteresis,Static PQC,100,0.0,0.0,0.0,,0.0,1.0,1.0
+ramp_attack,mean_latency_ms,Immediate-Exit Hysteresis,Dwell-Time,100,0.5880901284309094,0.6002872573300775,-0.012197128899168096,-5.882299837262059,0.0,3.896559845095909e-18,1.9482799225479547e-17
+ramp_attack,mean_latency_ms,Immediate-Exit Hysteresis,Original EMA-Exit Hysteresis,100,0.5880901284309094,0.590161358824731,-0.0020712303938216835,-2.4727380344398284,2.0,4.139373908714419e-18,1.9482799225479547e-17
+ramp_attack,mean_latency_ms,Immediate-Exit Hysteresis,Single Threshold,100,0.5880901284309094,0.6317035344055002,-0.04361340597459095,-12.048386648077933,0.0,3.896559845095909e-18,1.9482799225479547e-17
+ramp_attack,mean_latency_ms,Immediate-Exit Hysteresis,Static Hybrid,100,0.5880901284309094,0.6680636952685544,-0.0799735668376452,-16.043110004924166,0.0,3.896559845095909e-18,1.9482799225479547e-17
+ramp_attack,mean_latency_ms,Immediate-Exit Hysteresis,Static PQC,100,0.5880901284309094,0.5737946027439567,0.01429552568695271,5.267441339587338,0.0,3.896559845095909e-18,1.9482799225479547e-17
+ramp_attack,switches,Immediate-Exit Hysteresis,Dwell-Time,100,154.35,264.98,-110.63,-6.081488363419745,0.0,3.84848432333778e-18,1.9145978944376286e-17
+ramp_attack,switches,Immediate-Exit Hysteresis,Original EMA-Exit Hysteresis,100,154.35,156.36,-2.01,-0.28474659348758197,1681.5,0.0036234224227813445,0.0036234224227813445
+ramp_attack,switches,Immediate-Exit Hysteresis,Single Threshold,100,154.35,1355.57,-1201.22,-21.147994453291528,0.0,3.889312402158803e-18,1.9145978944376286e-17
+ramp_attack,switches,Immediate-Exit Hysteresis,Static Hybrid,100,154.35,0.0,154.35,8.08198432697956,0.0,3.829195788875257e-18,1.9145978944376286e-17
+ramp_attack,switches,Immediate-Exit Hysteresis,Static PQC,100,154.35,0.0,154.35,8.08198432697956,0.0,3.829195788875257e-18,1.9145978944376286e-17
+ramp_attack,unsafe_hybrid_fraction,Immediate-Exit Hysteresis,Dwell-Time,100,0.0,0.0077800000000000005,-0.0077800000000000005,-5.687609986929522,0.0,3.791750035112815e-18,1.8838090103536595e-17
+ramp_attack,unsafe_hybrid_fraction,Immediate-Exit Hysteresis,Original EMA-Exit Hysteresis,100,0.0,0.004414,-0.004414,-3.8925575483314594,0.0,3.767618020707319e-18,1.8838090103536595e-17
+ramp_attack,unsafe_hybrid_fraction,Immediate-Exit Hysteresis,Single Threshold,100,0.0,0.0,0.0,,0.0,1.0,1.0
+ramp_attack,unsafe_hybrid_fraction,Immediate-Exit Hysteresis,Static Hybrid,100,0.0,0.3381219999999999,-0.3381219999999999,-24.020663948710627,0.0,3.893263967270896e-18,1.8838090103536595e-17
+ramp_attack,unsafe_hybrid_fraction,Immediate-Exit Hysteresis,Static PQC,100,0.0,0.0,0.0,,0.0,1.0,1.0
+ramp_attack,true_channel_risk_violations,Immediate-Exit Hysteresis,Dwell-Time,100,0.0,38.9,-38.9,-5.6876099869295205,0.0,3.791750035112815e-18,1.8838090103536595e-17
+ramp_attack,true_channel_risk_violations,Immediate-Exit Hysteresis,Original EMA-Exit Hysteresis,100,0.0,22.07,-22.07,-3.892557548331459,0.0,3.767618020707319e-18,1.8838090103536595e-17
+ramp_attack,true_channel_risk_violations,Immediate-Exit Hysteresis,Single Threshold,100,0.0,0.0,0.0,,0.0,1.0,1.0
+ramp_attack,true_channel_risk_violations,Immediate-Exit Hysteresis,Static Hybrid,100,0.0,1690.61,-1690.61,-24.020663948710634,0.0,3.893263967270896e-18,1.8838090103536595e-17
+ramp_attack,true_channel_risk_violations,Immediate-Exit Hysteresis,Static PQC,100,0.0,0.0,0.0,,0.0,1.0,1.0
+ramp_attack,fallback_delay_from_unsafe_tx,Immediate-Exit Hysteresis,Dwell-Time,100,0.0,1.44,-1.44,-0.26156109223201846,1870.5,0.014265329137458392,0.05706131654983357
+ramp_attack,fallback_delay_from_unsafe_tx,Immediate-Exit Hysteresis,Original EMA-Exit Hysteresis,100,0.0,1.44,-1.44,-0.26156109223201846,1870.5,0.014265329137458392,0.05706131654983357
+ramp_attack,fallback_delay_from_unsafe_tx,Immediate-Exit Hysteresis,Single Threshold,100,0.0,0.0,0.0,,0.0,1.0,1.0
+ramp_attack,fallback_delay_from_unsafe_tx,Immediate-Exit Hysteresis,Static Hybrid,0,,,,,,,
+ramp_attack,fallback_delay_from_unsafe_tx,Immediate-Exit Hysteresis,Static PQC,100,0.0,0.0,0.0,,0.0,1.0,1.0
+step_attack,mean_latency_ms,Immediate-Exit Hysteresis,Dwell-Time,100,0.5880525441986183,0.5998968955057926,-0.01184435130717429,-6.744760332778546,0.0,3.896559845095909e-18,1.9482799225479547e-17
+step_attack,mean_latency_ms,Immediate-Exit Hysteresis,Original EMA-Exit Hysteresis,100,0.5880525441986183,0.5903432749805125,-0.0022907307818941258,-2.6577470983918903,0.0,3.896559845095909e-18,1.9482799225479547e-17
+step_attack,mean_latency_ms,Immediate-Exit Hysteresis,Single Threshold,100,0.5880525441986183,0.6309399666936234,-0.04288742249500501,-12.765936271460788,0.0,3.896559845095909e-18,1.9482799225479547e-17
+step_attack,mean_latency_ms,Immediate-Exit Hysteresis,Static Hybrid,100,0.5880525441986183,0.6684729464051378,-0.08042040220651961,-17.710535676160497,0.0,3.896559845095909e-18,1.9482799225479547e-17
+step_attack,mean_latency_ms,Immediate-Exit Hysteresis,Static PQC,100,0.5880525441986183,0.5729559316896702,0.015096612508948061,4.706156788906296,0.0,3.896559845095909e-18,1.9482799225479547e-17
+step_attack,switches,Immediate-Exit Hysteresis,Dwell-Time,100,161.75,260.9,-99.15,-5.487098147544791,0.0,3.845878260560533e-18,1.9229391302802665e-17
+step_attack,switches,Immediate-Exit Hysteresis,Original EMA-Exit Hysteresis,100,161.75,164.06,-2.31,-0.3220520823072368,1667.5,0.003114393285540443,0.003114393285540443
+step_attack,switches,Immediate-Exit Hysteresis,Single Threshold,100,161.75,1360.94,-1199.19,-19.619045642352187,0.0,3.890848669938197e-18,1.9229391302802665e-17
+step_attack,switches,Immediate-Exit Hysteresis,Static Hybrid,100,161.75,0.0,161.75,8.350288397398732,0.0,3.855877261772915e-18,1.9229391302802665e-17
+step_attack,switches,Immediate-Exit Hysteresis,Static PQC,100,161.75,0.0,161.75,8.350288397398732,0.0,3.855877261772915e-18,1.9229391302802665e-17
+step_attack,unsafe_hybrid_fraction,Immediate-Exit Hysteresis,Dwell-Time,100,0.0,0.007692000000000001,-0.007692000000000001,-5.167076549741285,0.0,3.782763554700572e-18,1.8769014052799217e-17
+step_attack,unsafe_hybrid_fraction,Immediate-Exit Hysteresis,Original EMA-Exit Hysteresis,100,0.0,0.004738000000000001,-0.004738000000000001,-4.160747974949685,0.0,3.753802810559843e-18,1.8769014052799217e-17
+step_attack,unsafe_hybrid_fraction,Immediate-Exit Hysteresis,Single Threshold,100,0.0,0.0,0.0,,0.0,1.0,1.0
+step_attack,unsafe_hybrid_fraction,Immediate-Exit Hysteresis,Static Hybrid,100,0.0,0.341562,-0.341562,-22.768339005879795,0.0,3.89414260953766e-18,1.8769014052799217e-17
+step_attack,unsafe_hybrid_fraction,Immediate-Exit Hysteresis,Static PQC,100,0.0,0.0,0.0,,0.0,1.0,1.0
+step_attack,true_channel_risk_violations,Immediate-Exit Hysteresis,Dwell-Time,100,0.0,38.46,-38.46,-5.167076549741284,0.0,3.782763554700572e-18,1.8769014052799217e-17
+step_attack,true_channel_risk_violations,Immediate-Exit Hysteresis,Original EMA-Exit Hysteresis,100,0.0,23.69,-23.69,-4.160747974949684,0.0,3.753802810559843e-18,1.8769014052799217e-17
+step_attack,true_channel_risk_violations,Immediate-Exit Hysteresis,Single Threshold,100,0.0,0.0,0.0,,0.0,1.0,1.0
+step_attack,true_channel_risk_violations,Immediate-Exit Hysteresis,Static Hybrid,100,0.0,1707.81,-1707.81,-22.768339005879792,0.0,3.89414260953766e-18,1.8769014052799217e-17
+step_attack,true_channel_risk_violations,Immediate-Exit Hysteresis,Static PQC,100,0.0,0.0,0.0,,0.0,1.0,1.0
+step_attack,fallback_delay_from_unsafe_tx,Immediate-Exit Hysteresis,Dwell-Time,100,0.0,1.34,-1.34,-0.25771733972963834,1827.5,0.009237122829785501,0.036948491319142004
+step_attack,fallback_delay_from_unsafe_tx,Immediate-Exit Hysteresis,Original EMA-Exit Hysteresis,100,0.0,1.34,-1.34,-0.25771733972963834,1827.5,0.009237122829785501,0.036948491319142004
+step_attack,fallback_delay_from_unsafe_tx,Immediate-Exit Hysteresis,Single Threshold,100,0.0,0.0,0.0,,0.0,1.0,1.0
+step_attack,fallback_delay_from_unsafe_tx,Immediate-Exit Hysteresis,Static Hybrid,0,,,,,,,
+step_attack,fallback_delay_from_unsafe_tx,Immediate-Exit Hysteresis,Static PQC,100,0.0,0.0,0.0,,0.0,1.0,1.0
+telemetry_underreporting,mean_latency_ms,Immediate-Exit Hysteresis,Dwell-Time,100,0.5880436487506222,0.6004740889518617,-0.012430440201239432,-6.630975012415449,0.0,3.896559845095909e-18,1.9482799225479547e-17
+telemetry_underreporting,mean_latency_ms,Immediate-Exit Hysteresis,Original EMA-Exit Hysteresis,100,0.5880436487506222,0.5901152539704936,-0.002071605219871344,-2.6019073645489015,0.0,3.896559845095909e-18,1.9482799225479547e-17
+telemetry_underreporting,mean_latency_ms,Immediate-Exit Hysteresis,Single Threshold,100,0.5880436487506222,0.6335910167532685,-0.04554736800264618,-13.388729575237738,0.0,3.896559845095909e-18,1.9482799225479547e-17
+telemetry_underreporting,mean_latency_ms,Immediate-Exit Hysteresis,Static Hybrid,100,0.5880436487506222,0.6680566918808666,-0.08001304313024411,-17.01283455058199,0.0,3.896559845095909e-18,1.9482799225479547e-17
+telemetry_underreporting,mean_latency_ms,Immediate-Exit Hysteresis,Static PQC,100,0.5880436487506222,0.5737391350678426,0.01430451368277955,5.186076003816359,0.0,3.896559845095909e-18,1.9482799225479547e-17
+telemetry_underreporting,switches,Immediate-Exit Hysteresis,Dwell-Time,100,165.45,291.52,-126.07,-6.601591126021881,0.0,3.854354086548124e-18,1.9247853384103383e-17
+telemetry_underreporting,switches,Immediate-Exit Hysteresis,Original EMA-Exit Hysteresis,100,165.45,167.78,-2.33,-0.3120889136813199,1653.5,0.0026710584608694438,0.0026710584608694438
+telemetry_underreporting,switches,Immediate-Exit Hysteresis,Single Threshold,100,165.45,1388.02,-1222.57,-22.650995642694955,0.0,3.8919463562279835e-18,1.9247853384103383e-17
+telemetry_underreporting,switches,Immediate-Exit Hysteresis,Static Hybrid,100,165.45,0.0,165.45,8.80101108363327,0.0,3.849570676820676e-18,1.9247853384103383e-17
+telemetry_underreporting,switches,Immediate-Exit Hysteresis,Static PQC,100,165.45,0.0,165.45,8.80101108363327,0.0,3.849570676820676e-18,1.9247853384103383e-17
+telemetry_underreporting,unsafe_hybrid_fraction,Immediate-Exit Hysteresis,Dwell-Time,100,0.0007999999999999999,0.009845999999999999,-0.009046,-5.2309208941701115,0.0,3.861539766922416e-18,1.9096311964681806e-17
+telemetry_underreporting,unsafe_hybrid_fraction,Immediate-Exit Hysteresis,Original EMA-Exit Hysteresis,100,0.0007999999999999999,0.005214,-0.004414,-3.727548307135711,0.0,3.819262392936361e-18,1.9096311964681806e-17
+telemetry_underreporting,unsafe_hybrid_fraction,Immediate-Exit Hysteresis,Single Threshold,100,0.0007999999999999999,0.022830000000000003,-0.022030000000000004,-10.135467063105038,0.0,3.8593609480921715e-18,1.9096311964681806e-17
+telemetry_underreporting,unsafe_hybrid_fraction,Immediate-Exit Hysteresis,Static Hybrid,100,0.0007999999999999999,0.35656,-0.3557600000000001,-26.718885376973212,0.0,3.893703264910611e-18,1.9096311964681806e-17
+telemetry_underreporting,unsafe_hybrid_fraction,Immediate-Exit Hysteresis,Static PQC,100,0.0007999999999999999,0.0,0.0007999999999999999,1.2885563078463298,27.5,7.945224359179649e-18,1.9096311964681806e-17
+telemetry_underreporting,true_channel_risk_violations,Immediate-Exit Hysteresis,Dwell-Time,100,4.0,49.23,-45.23,-5.23092089417011,0.0,3.826818185998225e-18,1.8784933335084493e-17
+telemetry_underreporting,true_channel_risk_violations,Immediate-Exit Hysteresis,Original EMA-Exit Hysteresis,100,4.0,26.07,-22.07,-3.7275483071357116,0.0,3.756986667016899e-18,1.8784933335084493e-17
+telemetry_underreporting,true_channel_risk_violations,Immediate-Exit Hysteresis,Single Threshold,100,4.0,114.15,-110.15,-10.135467063105034,0.0,3.8398039515630974e-18,1.8784933335084493e-17
+telemetry_underreporting,true_channel_risk_violations,Immediate-Exit Hysteresis,Static Hybrid,100,4.0,1782.8,-1778.8,-26.71888537697321,0.0,3.8926051089021165e-18,1.8784933335084493e-17
+telemetry_underreporting,true_channel_risk_violations,Immediate-Exit Hysteresis,Static PQC,100,4.0,0.0,4.0,1.28855630784633,27.5,7.945224359179649e-18,1.8784933335084493e-17
+telemetry_underreporting,fallback_delay_from_unsafe_tx,Immediate-Exit Hysteresis,Dwell-Time,100,0.0,0.65,-0.65,-0.20383095290657177,2139.0,0.13987193530630837,0.5594877412252335
+telemetry_underreporting,fallback_delay_from_unsafe_tx,Immediate-Exit Hysteresis,Original EMA-Exit Hysteresis,100,0.0,0.65,-0.65,-0.20383095290657177,2139.0,0.13987193530630837,0.5594877412252335
+telemetry_underreporting,fallback_delay_from_unsafe_tx,Immediate-Exit Hysteresis,Single Threshold,100,0.0,0.0,0.0,,0.0,1.0,1.0
+telemetry_underreporting,fallback_delay_from_unsafe_tx,Immediate-Exit Hysteresis,Static Hybrid,0,,,,,,,
+telemetry_underreporting,fallback_delay_from_unsafe_tx,Immediate-Exit Hysteresis,Static PQC,100,0.0,0.0,0.0,,0.0,1.0,1.0

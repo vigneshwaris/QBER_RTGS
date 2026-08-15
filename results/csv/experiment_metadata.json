@@ -1,0 +1,17 @@
+{
+  "PAPER_MODE": true,
+  "MASTER_SEED": 2026,
+  "N_RUNS": 100,
+  "N_TX": 5000,
+  "KEY_REGIME_N_RUNS": 50,
+  "THRESHOLD_N_RUNS": 30,
+  "THETA_LOW": 0.07,
+  "THETA_HIGH": 0.09,
+  "QKD_DISABLE_QBER": 0.1,
+  "B_MIN": 25.0,
+  "RECOVERY_DWELL": 5,
+  "dataset_source": "GitHub: https://raw.githubusercontent.com/Rnaveennithyakalyan/Adaptive-framework/main/Dataset/RTGS%20DATA.csv",
+  "dataset_sha256": "dd159936cb12a4cdfeb244414aed50b10cce7d5dd6c14447e35be01ebb32dbf8",
+  "bb84_proxy_positive_key_boundary": 0.11002786443797186,
+  "note": "Synthetic-trace calibrated simulation; not physical QKD or production RTGS validation."
+}

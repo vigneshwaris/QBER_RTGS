@@ -1,0 +1,4 @@
+regime,additional_dual_source_protection_pct,latency_cost_ms_vs_static_pqc,additional_switches_vs_static_pqc,unsafe_hybrid_cost_pct,starvation_difference
+Abundant,19.598,0.018257457566816737,202.84,0.0,0.0
+Balanced,19.598,0.018257457566816737,202.84,0.0,0.0
+Constrained,19.5876,0.018243311114822025,202.92,0.0,0.0
