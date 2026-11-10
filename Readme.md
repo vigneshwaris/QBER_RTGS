@@ -53,6 +53,13 @@ AND the conditions persist for D consecutive decisions
 ```
 
 This asymmetric policy provides fast fallback while reducing mode flapping during recovery.
+Additional Experiments
+**Additional Experiments**
+Independent safety triggers (E1)
+Severe key starvation (E2)
+Conventional raw-hysteresis comparison (E3)
+Telemetry consistency monitoring (E4)
+Channel-model stress (E5)
 
 ## Repository Structure
 
@@ -65,13 +72,14 @@ QBER_RTGS/
 ├── notebooks/
 │   ├── QBER_RTGS_Implementation.ipynb
 │   └── QBER_RTGS_Immediate_Exit_Evaluation.ipynb
-│
+│   |___Checkpointed with Additional Experiments
 ├── data/
 │   └── README.md
 │
 └── results/
     ├── tables/
     └── figures/
+    |__Additional Experiments 
 ```
 
 ## Evaluation
