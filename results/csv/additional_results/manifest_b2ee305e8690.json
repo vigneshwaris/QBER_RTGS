@@ -1,0 +1,17 @@
+{
+  "config": {
+    "version": "v3",
+    "n_steps": 5000,
+    "seed": 120260,
+    "n_e3": 100,
+    "n_e4": 30,
+    "n_e5": 30,
+    "e4_sensor_sigma": 0.003,
+    "e4_disagreement_threshold": 0.012,
+    "e4_bias": -0.05
+  },
+  "config_id": "b2ee305e8690",
+  "expected_tasks": 410,
+  "task_count": 410,
+  "source": "original QuantSafe notebook definitions; E3 old v2 checkpoints optional"
+}
